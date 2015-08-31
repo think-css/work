@@ -1,0 +1,6 @@
+git 的用法：
+git clone -b '分支名' git@github.com:think-css/work.git
+//                                   用户名    文件夹名
+git add
+git commit -m ''
+git push
